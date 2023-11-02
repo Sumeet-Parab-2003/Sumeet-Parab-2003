@@ -27,9 +27,12 @@
 </br>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumeet-Parab-2003&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Parab-2003&theme=radical&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Parab-2003&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sumeet-Parab-2003&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Parab-2003&theme=radical&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Parab-2003&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
 
 </br>
 
