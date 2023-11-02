@@ -3,7 +3,7 @@
 
 </br>
 
-# My Hactoberfest' 23 Badges
+# 🔥 My Hactoberfest' 23 Badges
 [![An image of @sumeetparab2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumeetparab2003)](https://holopin.io/@sumeetparab2003)
 
 </br>
