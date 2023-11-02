@@ -9,10 +9,11 @@
 </br>
 
 #  💫 About Me:
-
+[![Profile Views](https://visitcount.itsvg.in/api?id=Sumeet-Parab-2003&icon=0&color=0)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 🔭 I'm currently working on improving my development and programming skills<br>🧗‍♂ I'm currently learning JavaScript and Node.js<br>⚡ Fact: I 💗 simplicity
+
 
 </br>
 
@@ -33,25 +34,23 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Parab-2003&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
-
 </br>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sumeet-Parab-2003&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sumeet-Parab-2003&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+</div>
 
 </br>
 
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+</div>
 
 </br>
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Sumeet-Parab-2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</br>
-
----
-[![Profile Views](https://visitcount.itsvg.in/api?id=Sumeet-Parab-2003&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Sumeet-Parab-2003&limit=5&theme=radical&combine_all_yearly_contributions=true">
+</div>
