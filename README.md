@@ -59,3 +59,9 @@
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=Sumeet-Parab-2003&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
+
+</br>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumeet-Parab-2003&theme=radical">
+</div>
